@@ -80,16 +80,18 @@ Utilizando `train_test_split` con `stratify=y` para mantener la proporción de c
 Durante el análisis se realizaron:
 - Visualización de desbalance de clases.
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 
 - Matriz de correlación entre variables numéricas.
 
-![alt text](image-2.png)
+![alt text](img/descarga.png)
+![alt text](img/image-2.png)
+
 
 - Análisis dirigido:
 
-![alt text](image-3.png)![alt text](image-4.png)
+![alt text](img/image-3.png)![alt text](img/image-4.png)
 
 
 
@@ -110,13 +112,13 @@ Se entrenaron dos modelos principales:
 - Requiere normalización.
 - Permite interpretar coeficientes.
 - Buen desempeño base.
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 ### 2️⃣ Random Forest
 - No requiere normalización.
 - Captura relaciones no lineales.
 - Mejor desempeño general en F1-score.
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 ---
 
 ## 📊 Evaluación de Modelos
@@ -129,8 +131,8 @@ Se utilizaron las siguientes métricas:
 - F1-score
 - Matriz de Confusión
 
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](img/image-5.png)
+![alt text](img/image-6.png)
 
 ### 🔍 Observaciones
 
